@@ -5,9 +5,9 @@
 </div>
 
 <p align='center'>
-   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+   <a href=""><img height="30" src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ana Maria Caruntu | 💻 Front End Developer | 🛸 Spain , Madrid <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
