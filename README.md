@@ -19,7 +19,7 @@
   <h3> I'm 32 years old, Front-End Developer Jr. from Madrid.</h3>
 </p>
 
-**I am Into , 🙏**
+**Me, on fire 🔥 developing (meowwww)…**
 -->
 
 <!-- Web Development 😼**
