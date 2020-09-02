@@ -14,7 +14,7 @@
 </div>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://giphy.com/gifs/cute-space-astronaut-xT8qBhrlNooHBYR9f2" />
 <p align="center">
   <h3> I'm 32 years old, Front-End Developer Jr. from Madrid.</h3>
 </p>
@@ -34,7 +34,7 @@
 
 <br />
 
-### - Languages and Tools...
+### Languages and Tools...
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
