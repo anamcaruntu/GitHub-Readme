@@ -20,6 +20,15 @@
 </p>
 
 <p align="center">
+### Languages and Tools
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
    <h4>✨✨✨✨✨✨Thank You ✨✨✨✨✨✨✨</h4>
 
