@@ -19,14 +19,29 @@
   <h3> I'm 32 years old, Front-End Developer Jr. from Madrid.</h3>
 </p>
 
+**I am Into , 🙏**
+-->
+
+<!-- Web Development 😼**
+<br /> -->
+
+<p align="center" >
+<a href=""> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=anamcaruntu&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<br />
+
+### - Languages and Tools...
+
 <p align="center">
-### Languages and Tools
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
