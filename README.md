@@ -1,7 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm Ana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-
    <img src="https://pronoun.cyou/x/y?subject=she&object=her&height=20">
 </div>
 
@@ -20,10 +19,8 @@
   <h3> I'm 32 years old Self-taught Front-End Developer from Madrid.</h3>
 </p>
 
-
-
 <p align="center">
 
-   <h4>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</h4>
+   <h4>✨✨✨✨✨✨Thank You ✨✨✨✨✨✨✨</h4>
 
 </p>
