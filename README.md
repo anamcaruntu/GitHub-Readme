@@ -14,7 +14,7 @@
 </div>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://giphy.com/gifs/cute-space-astronaut-xT8qBhrlNooHBYR9f2" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
 <p align="center">
   <h3> I'm 32 years old, Front-End Developer Jr. from Madrid.</h3>
 </p>
