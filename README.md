@@ -16,7 +16,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 <p align="center">
-  <h3> I'm 32 years old, Front-End Developer Jr. from Madrid.</h3>
+  <h3> I'm 32 years old, Front-End Developer Jr. based in Madrid.</h3>
 </p>
 
 **Me, on fire 🔥 developing (meowwww)…**
