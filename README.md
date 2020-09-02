@@ -10,11 +10,11 @@
 <a href=""><img height="30" src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ana Maria Caruntu | 💻 Front End Developer | 🛸 Spain , Madrid <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> Ana Maria Caruntu | 💻 Front End Developer | 🛸 Spain , Madrid ></h3>
 </div>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 <p align="center">
   <h3> I'm 32 years old, Front-End Developer Jr. from Madrid.</h3>
 </p>
