@@ -8,7 +8,7 @@
 
 </div>
 <div align="left">
-  <h4> I'm 32 years old, Front-End Developer Jr. based in Madrid.</h4>
+  <p> I'm 32 years old, Front-End Developer Jr. based in Madrid.I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time</p>
   </div>
 
   <br>
