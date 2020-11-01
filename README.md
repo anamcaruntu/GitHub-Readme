@@ -3,13 +3,9 @@
 
 </div>
 
-
-
 <div align="center">
 <h3> Ana Maria Caruntu | 💻 Front End Developer | 🛸 Spain , Madrid ></h3>
 </div>
-
-
 
 <div align="center">
 <p>**Me, on fire 🔥 developing (meowwww)**</P>
@@ -20,8 +16,7 @@
   <h3> I'm 32 years old, Front-End Developer Jr. based in Madrid.</h3>
 </p>
 
-
-### Languages and Tools...
+### Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
