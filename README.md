@@ -8,7 +8,9 @@
 
 </div>
 <div align="left">
-  <p> I'm 32 years old, Front-End Developer Jr. based in Madrid.I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time</p>
+  <p> I'm 32 years old, Front-End Developer Jr. based in Madrid.I’m a people-person with deep emotions and empathy, a natural storyteller.
+  I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I’m easily inspired and more then willing to follow my fascinations wherever they take me. I’m passionate, expressive, multi-talented spirit with a natural ability to entertain. I’m never satisfied to just come up with ideas. Instead I have an almost impulsive need to act on them, that’s how I started my journey as  front end developer junior with Adalab Bootcamp. 
+  </p>
   </div>
 
   <br>
@@ -18,8 +20,7 @@
 <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 </div>
 
-
-### Technologies
+### Technical Skills
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
