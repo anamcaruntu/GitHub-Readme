@@ -7,7 +7,7 @@
 <h3> Ana Maria Caruntu | 💻 Front End Developer | 🛸 Spain , Madrid ></h3>
 
 </div>
-<div align="right">
+<div align="left">
   <h4> I'm 32 years old, Front-End Developer Jr. based in Madrid.</h4>
   </div>
 
