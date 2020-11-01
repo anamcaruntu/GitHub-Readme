@@ -28,12 +28,12 @@
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 <br>
-## Get in touch 
+
+### Get in touch!
 
 
-<a href="https://www.linkedin.com/in/ana-maria-caruntu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
-
-<a href="mailto:anam.caruntu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ana-maria-caruntu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"style="vertical-align:top; margin:4px></a>
+<a href="mailto:anam.caruntu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"style="vertical-align:top; margin:4px></a>
 <br>
    <h4 align ="center">✨✨✨✨✨✨Thank You ✨✨✨✨✨✨✨</h4>
 
