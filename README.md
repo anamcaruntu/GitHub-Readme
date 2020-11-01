@@ -9,13 +9,16 @@
 <h3> Ana Maria Caruntu | 💻 Front End Developer | 🛸 Spain , Madrid ></h3>
 </div>
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+
+**Me, on fire 🔥 developing (meowwww)…**
+<div align="center">
+<img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+</div>
+
 <p align="center">
   <h3> I'm 32 years old, Front-End Developer Jr. based in Madrid.</h3>
 </p>
 
-**Me, on fire 🔥 developing (meowwww)…**
 
 ### Languages and Tools...
 
