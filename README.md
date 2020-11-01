@@ -9,12 +9,11 @@
 </div>
 
 <div align="left" style="width:100%;height:0;padding-bottom:100%;position:relative;"> 
-<p> 🌈I'm 32 years old, Front-End Developer Jr. based in Madrid.I’m a people-person with deep emotions and <strong>empathy</strong>, a natural storyteller.
+
+  </p><iframe src="https://giphy.com/embed/4PXPgPJqcMcJ6ian02" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitter-gold-new-years-4PXPgPJqcMcJ6ian02"><p> 🌈I'm 32 years old, Front-End Developer Jr. based in Madrid.I’m a people-person with deep emotions and <strong>empathy</strong>, a natural storyteller.
   I don’t like to define myself by the work I’ve done. I define myself by the work I want to do.<strong> Skills can be taught, personality is inherent</strong>. I prefer to keep learning, continue challenging myself, and do interesting things that matter. 
   <br>
-  <p>I’m easily inspired and more then willing to follow my fascinations wherever they take me. <strong>I’m passionate, expressive, multi-talented spirit</strong> with a natural ability to entertain. I’m never satisfied to just come up with ideas. Instead I have an almost impulsive need to act on them, that’s how I started my journey as  front end developer junior with Adalab Bootcamp.🚀🚀🚀 </p>
-  </p><iframe src="https://giphy.com/embed/4PXPgPJqcMcJ6ian02" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitter-gold-new-years-4PXPgPJqcMcJ6ian02">via GIPHY</a></p>
-
+  <p>I’m easily inspired and more then willing to follow my fascinations wherever they take me. <strong>I’m passionate, expressive, multi-talented spirit</strong> with a natural ability to entertain. I’m never satisfied to just come up with ideas. Instead I have an almost impulsive need to act on them, that’s how I started my journey as  front end developer junior with Adalab Bootcamp.🚀🚀🚀 </p></a></p>
 
   <br>
 
