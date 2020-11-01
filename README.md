@@ -35,6 +35,9 @@
 <a href="https://www.linkedin.com/in/ana-maria-caruntu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white" style="vertical-align:top; margin:4px"></a>
 
 
+<a href="mailto:anam.caruntu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-E--mail-green"style="vertical-align:top; margin:4px"></a>
+
+
 <div align="center">
    <h4>✨✨✨✨✨✨Thank You ✨✨✨✨✨✨✨</h4>
    </div>
