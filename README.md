@@ -11,6 +11,8 @@
   <h4> I'm 32 years old, Front-End Developer Jr. based in Madrid.</h4>
   </div>
 
+  <br>
+
 <div align="center">
 <p>**Me, on fire 🔥 developing (meowwww)**</P>
 <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
