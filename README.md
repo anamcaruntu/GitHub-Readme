@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/anamcaruntu/anamcaruntu/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+<br>
+   <h4 align ="center">✨✨✨✨✨✨Thank You ✨✨✨✨✨✨✨</h4>
 
-   <h4>✨✨✨✨✨✨Thank You ✨✨✨✨✨✨✨</h4>
-
-</p>
